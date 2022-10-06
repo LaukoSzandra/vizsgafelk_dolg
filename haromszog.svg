@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by Flowgorithm 2.22.1 (http://flowgorithm.org) -->
+
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000" height="1900">
+	<rect x="0" y="0" width="1000" height="1900" fill="#FFFFFF"/>
+	<g>
+		<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="500,200 500,261"/>
+		<polygon fill="#404040" stroke="none" points="500,275 513,250 486,250"/>
+		<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="500,1625 500,1686"/>
+		<polygon fill="#404040" stroke="none" points="500,1700 513,1675 486,1675"/>
+		<g>
+			<path fill="#F0D0FF" stroke="#9070A0" stroke-width="3" stroke-dasharray="none" d="M 375,100 A 50,50 0 0,0 375,200 L 625,200 A 50,50 0 0,0 625,100 Z"/>
+			<text x="500" y="115" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="500" dy="50" unicode-bidi="embed">F&#337;program</tspan>
+			</text>
+		</g>
+		<g>
+			<path fill="#F0D0FF" stroke="#9070A0" stroke-width="3" stroke-dasharray="none" d="M 400,1700 A 50,50 0 0,0 400,1800 L 600,1800 A 50,50 0 0,0 600,1700 Z"/>
+			<text x="500" y="1715" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="500" dy="50" unicode-bidi="embed">V&#233;ge</tspan>
+			</text>
+		</g>
+		<g>
+			<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="500,400 500,461"/>
+			<polygon fill="#404040" stroke="none" points="500,475 513,450 486,450"/>
+			<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="500,625 500,686"/>
+			<polygon fill="#404040" stroke="none" points="500,700 513,675 486,675"/>
+			<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="500,800 500,861"/>
+			<polygon fill="#404040" stroke="none" points="500,875 513,850 486,850"/>
+			<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="500,1000 500,1061"/>
+			<polygon fill="#404040" stroke="none" points="500,1075 513,1050 486,1050"/>
+			<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="500,1225 500,1286"/>
+			<polygon fill="#404040" stroke="none" points="500,1300 513,1275 486,1275"/>
+			<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="500,1400 500,1461"/>
+			<polygon fill="#404040" stroke="none" points="500,1475 513,1450 486,1450"/>
+			<g>
+				<path fill="#FFFFD0" stroke="#A0A070" stroke-width="3" stroke-dasharray="none" d="M 350,275 L 350,400 L 650,400 L 650,275 Z"/>
+				<polyline fill="none" stroke="#A0A070" stroke-width="3" stroke-dasharray="none" points="350,300 650,300"/>
+				<polyline fill="none" stroke="#A0A070" stroke-width="3" stroke-dasharray="none" points="375,275 375,400"/>
+				<text x="512" y="315" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="512" dy="50" unicode-bidi="embed">oldal: val&#243;s</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D0FFD0" stroke="#70A070" stroke-width="3" stroke-dasharray="none" d="M 225,475 L 150,625 L 775,625 L 850,475 Z"/>
+				<text x="500" y="490" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="500" dy="50" unicode-bidi="embed">Ki: &quot;K&#233;rem a h&#225;romsz&#246;g</tspan>
+					<tspan x="500" dy="50" unicode-bidi="embed"> oldal&#225;nak a hossz&#225;t:&quot;</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D0E0FF" stroke="#7080A0" stroke-width="3" stroke-dasharray="none" d="M 375,700 L 325,800 L 625,800 L 675,700 Z"/>
+				<text x="500" y="715" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="500" dy="50" unicode-bidi="embed">Be: oldal</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFD0" stroke="#A0A070" stroke-width="3" stroke-dasharray="none" d="M 275,875 L 275,1000 L 725,1000 L 725,875 Z"/>
+				<polyline fill="none" stroke="#A0A070" stroke-width="3" stroke-dasharray="none" points="275,900 725,900"/>
+				<polyline fill="none" stroke="#A0A070" stroke-width="3" stroke-dasharray="none" points="300,875 300,1000"/>
+				<text x="512" y="915" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="512" dy="50" unicode-bidi="embed">magassag: val&#243;s</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D0FFD0" stroke="#70A070" stroke-width="3" stroke-dasharray="none" d="M 225,1075 L 150,1225 L 775,1225 L 850,1075 Z"/>
+				<text x="500" y="1090" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="500" dy="50" unicode-bidi="embed">Ki: &quot;K&#233;rem a h&#225;romsz&#246;g</tspan>
+					<tspan x="500" dy="50" unicode-bidi="embed"> magass&#225;g&#225;t: &quot;</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D0E0FF" stroke="#7080A0" stroke-width="3" stroke-dasharray="none" d="M 325,1300 L 275,1400 L 675,1400 L 725,1300 Z"/>
+				<text x="500" y="1315" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="500" dy="50" unicode-bidi="embed">Be: magassag</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D0FFD0" stroke="#70A070" stroke-width="3" stroke-dasharray="none" d="M 175,1475 L 100,1625 L 825,1625 L 900,1475 Z"/>
+				<text x="500" y="1490" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="500" dy="50" unicode-bidi="embed">Ki: &quot;A h&#225;romsz&#246;g ter&#252;lete: &quot;&amp;</tspan>
+					<tspan x="500" dy="50" unicode-bidi="embed">magassag*oldal/2</tspan>
+				</text>
+			</g>
+		</g>
+	</g>
+</svg>
